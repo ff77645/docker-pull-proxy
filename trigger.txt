@@ -1,1 +1,1 @@
-node:18.20.3-alpine registry.cn-hangzhou.aliyuncs.com/fy77645/node:18.20.3-alpine
+herberthe0229/edge-tts-server registry.cn-hangzhou.aliyuncs.com/fy77645/edge-tts-server:0730
